@@ -2,7 +2,7 @@
 ## About me
 - 🔭 I’m currently an undergraduate in Shanghai Jiao Tong University majoring in software engineering. 
 - 🌱 I’m currently learning C++ and Python.
-- 🚀 I'm interested in robotics and AI (potentially system in the future 😂
+- 🚀 I'm interested in robotics and AI. 
 <!--
 **shi-akihi/shi-akihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
