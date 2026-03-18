@@ -5,6 +5,8 @@
 - 🚀 I'm interested in Robotics and AI. 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2027%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -63,5 +65,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2026 19:36:54 UTC
+ Last Updated on 18/03/2026 19:32:06 UTC
 <!--END_SECTION:waka-->
