@@ -5,6 +5,47 @@
 - 🚀 I'm interested in Robotics and AI. 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2031%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌆 Daytime                447 commits         ██████████░░░░░░░░░░░░░░░   41.97 % 
+🌃 Evening                410 commits         ██████████░░░░░░░░░░░░░░░   38.50 % 
+🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Tuesday                  258 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Wednesday                107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Thursday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Friday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -18,5 +59,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:57:54 UTC
+ Last Updated on 25/07/2026 19:45:34 UTC
 <!--END_SECTION:waka-->
