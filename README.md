@@ -5,28 +5,24 @@
 - 🚀 I'm interested in Robotics and AI. 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2023%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2040%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-🌆 Daytime                447 commits         ██████████░░░░░░░░░░░░░░░   41.93 % 
-🌃 Evening                410 commits         ██████████░░░░░░░░░░░░░░░   38.46 % 
-🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+🌞 Morning                143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+🌆 Daytime                448 commits         ██████████░░░░░░░░░░░░░░░   41.95 % 
+🌃 Evening                411 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
+🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Tuesday                  258 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Wednesday                107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Thursday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Friday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Saturday                 142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Monday                   175 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Tuesday                  259 commits         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Wednesday                107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Thursday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Friday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Saturday                 142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 ```
 
 
@@ -67,5 +63,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:07:08 UTC
+ Last Updated on 28/07/2026 20:04:04 UTC
 <!--END_SECTION:waka-->
