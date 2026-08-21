@@ -5,28 +5,28 @@
 - 🚀 I'm interested in Robotics and AI. 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-🌆 Daytime                455 commits         ███████████░░░░░░░░░░░░░░   42.25 % 
-🌃 Evening                412 commits         ██████████░░░░░░░░░░░░░░░   38.25 % 
-🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌞 Morning                144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+🌆 Daytime                455 commits         ███████████░░░░░░░░░░░░░░   42.21 % 
+🌃 Evening                413 commits         ██████████░░░░░░░░░░░░░░░   38.31 % 
+🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Tuesday                  261 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Wednesday                108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Thursday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Friday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Saturday                 142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Monday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Tuesday                  261 commits         ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Wednesday                108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Thursday                 106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Friday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Saturday                 142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Sunday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 ```
 
 
@@ -36,22 +36,38 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   32 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex CLI                32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ios_sensor_recorder      32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 32 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 144,215 Input Tokens, 9,832 Output Tokens
+
+💵 $0.68 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 7 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 469 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -67,5 +83,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:12:53 UTC
+ Last Updated on 21/08/2026 19:08:39 UTC
 <!--END_SECTION:waka-->
