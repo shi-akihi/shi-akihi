@@ -5,28 +5,28 @@
 - 🚀 I'm interested in Robotics and AI. 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-🌆 Daytime                481 commits         ███████████░░░░░░░░░░░░░░   42.49 % 
-🌃 Evening                427 commits         █████████░░░░░░░░░░░░░░░░   37.72 % 
-🌙 Night                  76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+🌞 Morning                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+🌆 Daytime                485 commits         ███████████░░░░░░░░░░░░░░   42.54 % 
+🌃 Evening                430 commits         █████████░░░░░░░░░░░░░░░░   37.72 % 
+🌙 Night                  77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Tuesday                  274 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Wednesday                110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Thursday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Friday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Saturday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Sunday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Monday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Tuesday                  274 commits         ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Wednesday                110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Friday                   168 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Saturday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Sunday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 ```
 
 
@@ -75,15 +75,15 @@ GPT                      2 lines             ███████████�
 **I Mostly Code in C++** 
 
 ```text
-C++                      12 repos            ██████████░░░░░░░░░░░░░░░   38.71 % 
-Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
-TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+C++                      12 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
+TeX                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 13/09/2026 21:04:40 UTC
+ Last Updated on 14/09/2026 21:59:11 UTC
 <!--END_SECTION:waka-->
