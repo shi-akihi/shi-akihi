@@ -12,21 +12,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-🌆 Daytime                485 commits         ███████████░░░░░░░░░░░░░░   42.54 % 
-🌃 Evening                430 commits         █████████░░░░░░░░░░░░░░░░   37.72 % 
-🌙 Night                  77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+🌞 Morning                154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌆 Daytime                541 commits         ███████████░░░░░░░░░░░░░░   43.63 % 
+🌃 Evening                466 commits         █████████░░░░░░░░░░░░░░░░   37.58 % 
+🌙 Night                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   204 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Tuesday                  274 commits         ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Wednesday                110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Friday                   168 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Saturday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Sunday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Monday                   228 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Tuesday                  295 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Wednesday                126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Friday                   187 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Sunday                   129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 ```
 
 
@@ -36,54 +36,62 @@ Sunday                   126 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      2 hrs 3 mins        █████████████████████████   100.00 % 
+TeX                      2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.79 % 
+Other                    1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        ██████████████████░░░░░░░   73.03 % 
-Codex Vscode             33 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Codex Vscode             1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   39.23 % 
+VS Code                  1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   36.78 % 
+Codex CLI                1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
 
 🐱‍💻 Projects: 
-Roboprompt               1 hr 2 mins         █████████████░░░░░░░░░░░░   50.31 % 
-ActiveGlasses            1 hr 1 min          ████████████░░░░░░░░░░░░░   49.69 % 
+summer_lesson            2 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.26 % 
+Roboprompt               1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+ActiveGlasses            1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+ios_sensor_recorder      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+qin                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Linux                    2 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (60.63%)
+⏱ AI Coding Time: 3 hrs 53 mins (82.69%)
 
-✍️ 2 lines written by AI, 10 lines written by hand (16.67% AI-written)
+✍️ 626 lines written by AI, 12 lines written by hand (98.12% AI-written)
 
-🔤 93,363 Input Tokens, 10,596 Output Tokens
+🔤 675,089 Input Tokens, 77,677 Output Tokens
 
-💵 $2.61 Estimated AI Cost This Week
+💵 $14.27 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 15 AI Prompts
+🧠 17 AI Sessions, 44 AI Prompts
 
-GPT                      2 lines             █████████████████████████   100.00 % 
+GPT                      626 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.67% of written lines came from AI
-📄 Detailed Prompter — average 811 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 92.86% of changed lines were hand-edited
+🤖 AI-Driven — 98.12% of written lines came from AI
+📚 Verbose Prompter — average 3,563 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 4.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      12 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
-TeX                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+C++                      12 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
+Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
+TeX                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 14/09/2026 21:59:11 UTC
+ Last Updated on 15/09/2026 21:41:19 UTC
 <!--END_SECTION:waka-->
