@@ -5,9 +5,9 @@
 - 🚀 I'm interested in Robotics and AI. 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,48 +36,48 @@ Sunday                   129 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.79 % 
-Other                    1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+TeX                      2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.75 % 
+Other                    1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Markdown                 1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   39.23 % 
-VS Code                  1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   36.78 % 
-Codex CLI                1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Codex Vscode             1 hr 57 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
+VS Code                  1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   35.90 % 
+Codex CLI                1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
 
 🐱‍💻 Projects: 
-summer_lesson            2 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.26 % 
-Roboprompt               1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-ActiveGlasses            1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-ios_sensor_recorder      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-qin                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+summer_lesson            2 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.52 % 
+Roboprompt               1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+ActiveGlasses            1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+ios_sensor_recorder      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+qin                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 💻 Operating System: 
-Linux                    4 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 53 mins (82.69%)
+⏱ AI Coding Time: 4 hrs (83.1%)
 
-✍️ 626 lines written by AI, 12 lines written by hand (98.12% AI-written)
+✍️ 667 lines written by AI, 12 lines written by hand (98.23% AI-written)
 
-🔤 675,089 Input Tokens, 77,677 Output Tokens
+🔤 705,296 Input Tokens, 82,684 Output Tokens
 
-💵 $14.27 Estimated AI Cost This Week
+💵 $15.10 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 44 AI Prompts
+🧠 18 AI Sessions, 44 AI Prompts
 
-GPT                      626 lines           █████████████████████████   100.00 % 
+GPT                      667 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.12% of written lines came from AI
+🤖 AI-Driven — 98.23% of written lines came from AI
 📚 Verbose Prompter — average 3,563 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.28% of changed lines were hand-edited
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 4.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -93,5 +93,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 21:41:19 UTC
+ Last Updated on 16/09/2026 21:36:07 UTC
 <!--END_SECTION:waka-->
