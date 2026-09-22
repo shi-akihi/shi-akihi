@@ -36,48 +36,46 @@ Sunday                   129 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 29 mins        ████████████░░░░░░░░░░░░░   46.30 % 
-Markdown                 1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   36.68 % 
-Python                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    14 mins             ███████████░░░░░░░░░░░░░░   43.26 % 
+Markdown                 11 mins             █████████░░░░░░░░░░░░░░░░   35.32 % 
+Python                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 43 mins        █████████████░░░░░░░░░░░░   53.66 % 
-Codex CLI                1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.53 % 
-VS Code                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Codex Vscode             25 mins             ███████████████████░░░░░░   76.68 % 
+VS Code                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🐱‍💻 Projects: 
-summer_lesson            2 hrs 20 mins       ██████████████████░░░░░░░   72.96 % 
-depth_capture            20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-ios_sensor_recorder      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-qin                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+depth_capture            17 mins             █████████████░░░░░░░░░░░░   52.74 % 
+Unknown Project          8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+summer_lesson            6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+ios_sensor_recorder      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 💻 Operating System: 
-Linux                    3 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    33 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 12 mins (99.89%)
+⏱ AI Coding Time: 33 mins (100.0%)
 
-✍️ 1,097 lines written by AI, 2 lines written by hand (99.82% AI-written)
+✍️ 473 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 683,721 Input Tokens, 87,647 Output Tokens
+🔤 101,995 Input Tokens, 20,566 Output Tokens
 
-💵 $13.56 Estimated AI Cost This Week
+💵 $1.90 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 37 AI Prompts
+🧠 5 AI Sessions, 8 AI Prompts
 
-GPT                      1,097 lines         █████████████████████████   100.00 % 
+GPT                      473 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📚 Verbose Prompter — average 5,863 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 9,040 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -93,5 +91,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:10:12 UTC
+ Last Updated on 22/09/2026 21:36:57 UTC
 <!--END_SECTION:waka-->
