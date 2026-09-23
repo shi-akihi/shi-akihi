@@ -36,40 +36,39 @@ Sunday                   129 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 mins             ███████████░░░░░░░░░░░░░░   43.26 % 
-Markdown                 11 mins             █████████░░░░░░░░░░░░░░░░   35.32 % 
-Python                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    14 mins             ██████████████░░░░░░░░░░░   54.39 % 
+Python                   7 mins              ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+Markdown                 4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Codex Vscode             25 mins             ███████████████████░░░░░░   76.68 % 
-VS Code                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Codex Vscode             18 mins             ██████████████████░░░░░░░   70.67 % 
+VS Code                  7 mins              ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+Codex CLI                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🐱‍💻 Projects: 
-depth_capture            17 mins             █████████████░░░░░░░░░░░░   52.74 % 
-Unknown Project          8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-summer_lesson            6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-ios_sensor_recorder      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+depth_capture            17 mins             █████████████████░░░░░░░░   66.32 % 
+Unknown Project          8 mins              ████████░░░░░░░░░░░░░░░░░   31.53 % 
+ios_sensor_recorder      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
+Linux                    26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (100.0%)
+⏱ AI Coding Time: 26 mins (100.0%)
 
-✍️ 473 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 432 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 101,995 Input Tokens, 20,566 Output Tokens
+🔤 71,788 Input Tokens, 15,559 Output Tokens
 
-💵 $1.90 Estimated AI Cost This Week
+💵 $0.98 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 8 AI Prompts
 
-GPT                      473 lines           █████████████████████████   100.00 % 
+GPT                      432 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
@@ -91,5 +90,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 21:36:57 UTC
+ Last Updated on 23/09/2026 21:43:19 UTC
 <!--END_SECTION:waka-->
