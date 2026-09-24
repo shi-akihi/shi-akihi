@@ -36,45 +36,22 @@ Sunday                   129 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 mins             ██████████████░░░░░░░░░░░   54.39 % 
-Python                   7 mins              ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-Markdown                 4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             18 mins             ██████████████████░░░░░░░   70.67 % 
-VS Code                  7 mins              ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Codex CLI                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-depth_capture            17 mins             █████████████████░░░░░░░░   66.32 % 
-Unknown Project          8 mins              ████████░░░░░░░░░░░░░░░░░   31.53 % 
-ios_sensor_recorder      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (100.0%)
-
-✍️ 432 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 71,788 Input Tokens, 15,559 Output Tokens
-
-💵 $0.98 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 8 AI Prompts
-
-GPT                      432 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,040 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -90,5 +67,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:43:19 UTC
+ Last Updated on 24/09/2026 21:44:37 UTC
 <!--END_SECTION:waka-->
